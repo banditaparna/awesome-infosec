@@ -361,7 +361,11 @@ Cyber risk, legal considerations and insurance are often overlooked by businesse
 Roppers is a community dedicated to providing free training to beginners so that they have the best introduction to the field possible and have the knowledge, skills, and confidence required to figure out what the next ten thousand hours will require them to learn.
 
 - [Introduction to Computing Fundamentals](https://hoppersroppers.org/course.html)<br>
-A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/). **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None 
+A free, self-paced curriculum designed to give a beginner all of the foundational knowledge and skills required to be successful. It teaches security fundamentals along with building a strong technical foundation that students will build on for years to come. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/). **Learning Objectives:** Linux, Hardware, Networking, Operating Systems, Power User, Scripting **Pre-Reqs:** None
+
+## BugBazaar and iBugBazaar
+Crafted by Experts, Dedicated to Enthusiasts (https://payatu.com/bugbazaar/) <br>
+BugBazaar isn’t just another app – it’s your comprehensive mobile application intentionally designed to be vulnerable. With over 30+ vulnerabilities for Android and 20+ for iOS carefully woven into its fabric, BugBazaar is your one-stop shop for hands-on learning. It features more than ten modules, each meticulously crafted to emulate real-world scenarios and the vulnerabilities that surround them. 
 
 - [Introduction to Capture the Flags](https://hoppersroppers.github.io/courseCTF.html)<br>
 Free course designed to teach the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event. Our mentors will track your progress and provide assistance every step of the way. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/). **Learning Objectives:** CTFs, Forensics, Cryptography, Web-Exploitation **Pre-Reqs:** Linux, Scripting
